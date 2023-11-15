@@ -1,0 +1,302 @@
+
+/* ----------------------------------------------------- */
+
+.links {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border:  solid white;
+    border-width: 1px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    font-size: 15px;
+}
+
+/* ----------------------------------------------------- */
+
+
+
+/* --------------TICKET--------------------------------------- */
+
+.links-ticket{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-ticket:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #030B88;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #1933AC, #030B88);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1933AC, #030B88); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------TICKET--------------------------------------- */
+
+
+/* --------------PANDUAN--------------------------------------- */
+
+.links-panduan{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-panduan:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: -webkit-linear-gradient(to right, #1933AC, #030B88); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1933AC, #030B88); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------PANDUAN--------------------------------------- */
+
+
+/* --------------MAPS1--------------------------------------- */
+
+.links-maps1{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-maps1:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #030B88;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #1933AC, #030B88);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1933AC, #030B88); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------MAPS1--------------------------------------- */
+
+
+/* --------------MAPS2--------------------------------------- */
+
+.links-maps2{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-maps2:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #030B88;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #1933AC, #030B88);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1933AC, #030B88); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------MAPS2--------------------------------------- */
+
+
+/* --------------ANDROID--------------------------------------- */
+
+.links-android{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-android:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #030B88;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #1933AC, #030B88);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1933AC, #030B88); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------ANDROID--------------------------------------- */
+
+
+/* --------------APP STORE-------------------------------------- */
+
+.links-ios{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-ios:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #030B88;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #1933AC, #030B88);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1933AC, #030B88); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------APP STORE--------------------------------------- */
+
+
+/* --------------LIN--------------------------------------- */
+
+.links-linkedin{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-linkedin:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #0072AC;  /* fallback for old browsers */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------LIN--------------------------------------- */
+
+
+
+/* --------------WHATSAPP--------------------------------------- */
+
+.links-whatsapp{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-whatsapp:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #030B88;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #1933AC, #030B88);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1933AC, #030B88); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------WHATSAPP--------------------------------------- */
+
+
+
